@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textView_prompt">একটি জিভজন্তু বাছুনঃ</string>
+    <string name="dog">কুকুর</string>
+    <string name="cat">বিড়াল</string>
+    <string name="pig">শূয়র</string>
+    <string name="horse">ঘোরা</string>
+    <string name="toastMessage">"আপনি বেচেছেন "</string>
+</resources>
